@@ -14,7 +14,7 @@ The CheerpJ Applet Runner Extension works by converting the Java Applet on the f
 
 Main project link: <http://www.leaningtech.com/cheerpj>
 
-Please note that the first activation of the CheerpJ Applet Runner extension on an applet will lead to a one-time download of approximately 20Mb. Sunsequent uses will only download the applet content.
+Please note that the first activation of the CheerpJ Applet Runner extension on an applet will lead to a one-time download of approximately 20Mb. Subsequent uses will only download the applet content.
 
 Using the CheerpJ Applet Runner
 -------

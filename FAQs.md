@@ -6,7 +6,7 @@ The CheerpJ Applet Enabler Extension works by converting the Java Applet on the 
 
 The compiler runs directly on your browser and doesn't transmit your applet or the URL you are visiting to any external server.
 
-The CheerpJ Applet Runner is not a plugin, and therefore does not pose any security threat, unlike Java applets.
+The CheerpJ Applet Runner is not a plugin, and therefore does not pose any security threat, unlike the Java plugin.
 
 ## Is any information sent to the cloud by the CheerpJ Applet Runner?
 

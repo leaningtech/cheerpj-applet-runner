@@ -32,3 +32,8 @@ Bugs and Questions
 The CheerpJ Applet Runner Extension is in beta, and we welcome any feedback and bug report on it either through the Extension itself or on GitHub. **Currently, multiple-window applets and pages with multiple applets are not supported. Some AWT elements might also not render properly**. 
  
 We aim at supporting as many Java applets as possible, and eventually Java WebStart applications.
+
+More information
+-------
+
+You can find more information on the CheerpJ Applet Runner Extension in the [FAQs](FAQs.md)

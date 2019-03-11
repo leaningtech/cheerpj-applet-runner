@@ -23,7 +23,6 @@ Please feel free to try the extension on any applet you like. Here are a few exa
 * http://www.neilwallis.com/projects/java/water/index.php
 * http://www.javaonthebrain.com/java/iceblox/
 * http://www.schubart.net/rc/
-* http://sites.math.rutgers.edu/~sontag/JODE/JOdeApplet.html
 
 
 Bugs and Questions

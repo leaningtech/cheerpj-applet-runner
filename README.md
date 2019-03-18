@@ -20,6 +20,8 @@ Using the CheerpJ Applet Runner
 -------
 
 Please feel free to try the extension on any applet you like. Here are a few examples:
+* http://sab-steveabaker.com/alpine/alpine.html
+* http://sab-steveabaker.com/sabgolf/golf.html
 * http://www.neilwallis.com/projects/java/water/index.php
 * http://www.javaonthebrain.com/java/iceblox/
 * http://www.schubart.net/rc/

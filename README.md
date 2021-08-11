@@ -1,4 +1,4 @@
-# CheerpJ Applet Runner (Beta)
+# CheerpJ Applet Runner
 
 <p align="center"><img src="media/cheerpj_logo_whitebg.png" width="300"></p>
 

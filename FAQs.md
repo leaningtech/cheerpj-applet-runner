@@ -1,4 +1,4 @@
-# CheerpJ Applet Runner (Beta) FAQs
+# CheerpJ Applet Runner
 
 ## How does CheerpJ work?
 
@@ -11,10 +11,7 @@ The CheerpJ Applet Runner is not a plugin, and therefore does not pose any secur
 ## Is any information sent to the cloud by the CheerpJ Applet Runner?
 
 No, 100% of code execution is happening locally on the JavaScript engine of your browser. We do not collect information on the web pages
-you are visiting, or any logs from the extension. We use Google Analytics to track the use of the extension itself, but not of the web pages and applets that you are exploring.
-You can opt out from tracking entirely from the extension Settings.
-
-<p align="center"><img src="media/cheerpj_appletRunnerextension_optout.png" width="400"></p>
+you are visiting, or any logs from the extension. 
 
 ## Can I report applets that are not working?
 

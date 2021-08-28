@@ -2,20 +2,20 @@
 
 <p align="center"><img src="media/cheerpj_logo_whitebg.png" width="300"></p>
 
-The CheerpJ Applet Runner is a browser extension/add-on that enables Java applets without requiring a local Java installation or to install deprecated plugins. This extension is available as:
+The CheerpJ Applet Runner is a browser extension/add-on that enables Java applets without requiring a local Java installation or to install deprecated plugins. CheerpJ Applet Runner is available as:
 
 - Google Chrome Extension at <https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein> 
 - Microsoft Edge Add-On at <https://microsoftedge.microsoft.com/addons/detail/cheerpj-applet-runner/ebfcpaoldmijengghefpohddmfpndmic>
 
 Note that both versions are upgraded to release of 2.2 of [CheerpJ](https://leaningtech.com/cheerpj/).
- 
+
 Since Java Applets have lost support on the majority of browsers, a tremendous amount of content, particularly in science and education, is virtually inaccessible. We aim at solving this problem by providing a solution to extend the life of Java applets on modern browsers.
 
-What is the CheerpJ Applet Runner Extension?
+What is the CheerpJ Applet Runner?
 -------
 <p align="center"><img src="media/cheerpj_applet_demo1.gif" width="400"></p>
 
-The CheerpJ Applet Runner Extension works by converting the Java Applet on the fly through CheerpJ, a minimal Java-bytecode-to-JavaScript compiler, directly on the browser, and linking it to the CheerpJ runtime environment.
+The CheerpJ Applet Runner works by converting the Java Applet on the fly through CheerpJ, a minimal Java-bytecode-to-JavaScript compiler, directly on the browser, and linking it to the CheerpJ runtime environment.
 
 Main project link: <http://www.leaningtech.com/cheerpj>
 
@@ -35,7 +35,7 @@ Please feel free to try the extension on any applet you like. Here are a few exa
 Bugs and Questions
 -------
  
-We welcome any feedback and bug report, either through the Extension itself or on GitHub.
+We welcome any feedback and bug report, either through the Extension/Add-On itself (click on icon + "Report bug") or on [GitHub](https://github.com/leaningtech/cheerpj-appletrunner/issues).
  
 We aim at supporting as many Java applets as possible, and eventually Java WebStart applications.
 

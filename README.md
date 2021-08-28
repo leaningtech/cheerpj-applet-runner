@@ -2,12 +2,12 @@
 
 <p align="center"><img src="media/cheerpj_logo_whitebg.png" width="300"></p>
 
-The CheerpJ Applet Runner is a Chrome Extension that enables Java applets without requiring a local Java installation or to install deprecated plugins. This extension is available on:
+The CheerpJ Applet Runner is a browser extension/add-on that enables Java applets without requiring a local Java installation or to install deprecated plugins. This extension is available as:
 
-- Google Chrome at <https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein> 
-- Microsoft Edge at <https://microsoftedge.microsoft.com/addons/detail/cheerpj-applet-runner/ebfcpaoldmijengghefpohddmfpndmic>. 
+- Google Chrome Extension at <https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein> 
+- Microsoft Edge Add-On at <https://microsoftedge.microsoft.com/addons/detail/cheerpj-applet-runner/ebfcpaoldmijengghefpohddmfpndmic>
 
-Note that both have been upgraded to release of 2.2 of [CheerpJ](https://leaningtech.com/cheerpj/).
+Note that both versions are upgraded to release of 2.2 of [CheerpJ](https://leaningtech.com/cheerpj/).
  
 Since Java Applets have lost support on the majority of browsers, a tremendous amount of content, particularly in science and education, is virtually inaccessible. We aim at solving this problem by providing a solution to extend the life of Java applets on modern browsers.
 

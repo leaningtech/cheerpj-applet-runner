@@ -1,6 +1,8 @@
-# CheerpJ Applet Runner
+---
+title: Frequently Asked Questions (FAQs)
+---
 
-## How does CheerpJ work?
+## How does CheerpJ Applet Runner work?
 
 The CheerpJ Applet Enabler Extension works by converting the Java Applet on the fly through CheerpJ.js, a minimal Java-bytecode-to-JavaScript compiler, and linking it to the CheerpJ runtime environment.
 

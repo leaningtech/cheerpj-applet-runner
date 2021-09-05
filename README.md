@@ -19,7 +19,7 @@ What is the CheerpJ Applet Runner?
 
 The CheerpJ Applet Runner works by converting the Java Applet on the fly through CheerpJ, a minimal Java-bytecode-to-JavaScript compiler, directly on the browser, and linking it to the CheerpJ runtime environment.
 
-Main project link: <http://www.leaningtech.com/cheerpj-applet-runner/>
+Main project link: <http://leaningtech.com/cheerpj-applet-runner/>
 
 Please note that CheerpJ Applet Runner extension is self packaged, meaning all needed assets will be downloaded at installation/update time. Usage of the CheerpJ Applet Runner will then only ever require users to download the actual applet content.
 

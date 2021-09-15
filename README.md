@@ -1,7 +1,6 @@
 ---
 #layout: home
 title: CheerpJ Applet Runner
-permalink: /
 ---
 
 The CheerpJ Applet Runner is a browser extension/add-on that enables Java applets without requiring a local Java installation or to install deprecated plugins. CheerpJ Applet Runner is available as:

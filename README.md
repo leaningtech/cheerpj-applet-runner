@@ -43,4 +43,4 @@ We aim at supporting as many Java applets as possible, and eventually Java WebSt
 More information
 -------
 
-You can find more information on the CheerpJ Applet Runner Extension in the [FAQs](FAQs.md)
+You can find more information on the CheerpJ Applet Runner Extension in the [FAQs](FAQs)

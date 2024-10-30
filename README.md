@@ -1,4 +1,10 @@
-<h1><img src="assets/AR_logo_300.png" alt="CheerpJ Applet Runner" height="96"></h1>
+<h1>
+<picture>
+	<source srcset="assets/AR_logo_black.png" media="(prefers-color-scheme: light)" height="96"/>
+	<source srcset="assets/AR_logo.png"  media="(prefers-color-scheme: dark)" height="96"/>
+	<img src="CheerpJ_Horizontal_Trans.png" height="96"/>
+</picture>
+</h1>
 
 [![Discord server](https://img.shields.io/discord/988743885121548329?color=%237289DA&logo=discord&logoColor=ffffff)](https://discord.leaningtech.com)
 [![GitHub Issues](https://img.shields.io/github/issues/leaningtech/cheerpj-jnlprunner.svg)](https://github.com/leaningtech/cheerpj-applet-runner/issues)

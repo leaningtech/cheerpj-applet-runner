@@ -1,0 +1,15 @@
+# Blank issues stay on: the extension's "Report a bug" link opens
+# issues/new?title=… and would lose its prefilled title without them.
+# Once the extension links issues/new?template=bug_report.yml&title=…,
+# this can be false.
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question
+    url: https://discord.leaningtech.com
+    about: Questions and help getting started, on Discord. The CheerpJ team answers there.
+  - name: Report a problem with a private applet
+    url: https://cheerpj.com/contact/
+    about: Issues here are public. For applets on internal or private sites, write to us instead, through this form or at appletrunner@leaningtech.com.
+  - name: Licensing and enterprise deployment
+    url: https://cheerpj.com/contact/
+    about: Desktop and Enterprise licences, Group Policy and self-hosted deployments.

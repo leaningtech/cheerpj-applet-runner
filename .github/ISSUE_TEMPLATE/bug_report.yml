@@ -1,0 +1,58 @@
+name: Bug report
+description: A applet doesn't run, or runs wrongly, with the extension.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are **public**. Don't post addresses of internal systems, credentials or personal data. For a private applet, write to appletrunner@leaningtech.com.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you post
+      options:
+        - label: The applet works with a local Java installation, or used to.
+        - label: I tried with other browser extensions turned off.
+  - type: input
+    id: address
+    attributes:
+      label: Page with the applet
+      description: A public address we can open. Without one we may not be able to help.
+      placeholder: https://example.com/applet.html
+  - type: input
+    id: version
+    attributes:
+      label: Extension version
+      description: From chrome://extensions or edge://extensions.
+      placeholder: "2025.12"
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and OS
+      placeholder: Chrome 141 on Windows 11
+    validations:
+      required: true
+  - type: dropdown
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - Community (free)
+        - Desktop
+        - Enterprise
+        - Don't know
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected and what happened instead. Screenshots help.
+    validations:
+      required: true
+  - type: textarea
+    id: console
+    attributes:
+      label: Console output
+      description: The full output from the browser's developer tools (F12, Console tab), from loading the page to the error.
+      render: text
